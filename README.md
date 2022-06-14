@@ -1,2 +1,2 @@
-# Python-Exerc-cios-B-sico
+# Python-Exercicios-Basico
 Exercícios de Python do nível básico
